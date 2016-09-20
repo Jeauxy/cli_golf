@@ -1,0 +1,23 @@
+Last login: Tue Sep 20 00:12:50 on ttys000
+Jeauxys-MacBook:~ jeauxy$ cd Code/WDI/homework/cli_golf/kitchen
+Jeauxys-MacBook:kitchen jeauxy$ mv cans.txt pantry/cans.txt
+Jeauxys-MacBook:kitchen jeauxy$ rm fridge/diapers.txt 
+Jeauxys-MacBook:kitchen jeauxy$ cd ../
+Jeauxys-MacBook:cli_golf jeauxy$ mv kitchen/fridge/trashcan/ kitchen/trashcan
+Jeauxys-MacBook:cli_golf jeauxy$ cd kitchen
+Jeauxys-MacBook:kitchen jeauxy$ mv pantry/crisper-drawer/ fridge/crisper-drawer
+Jeauxys-MacBook:kitchen jeauxy$ touch fridge/crisper-drawer/apples.txt
+Jeauxys-MacBook:kitchen jeauxy$ rm fridge/freezer/couch.txt
+Jeauxys-MacBook:kitchen jeauxy$ cd ../
+Jeauxys-MacBook:cli_golf jeauxy$ mv kitchen/trashcan/sink/ kitchen/sink
+Jeauxys-MacBook:cli_golf jeauxy$ cd kitchen
+Jeauxys-MacBook:kitchen jeauxy$ rm sink/delete-me.txt 
+Jeauxys-MacBook:kitchen jeauxy$ mkdir sink/drying-rack
+Jeauxys-MacBook:kitchen jeauxy$ mv sink/clean-dishes.txt sink/drying-rack/clean-dishes.txt
+Jeauxys-MacBook:kitchen jeauxy$ 
+
+
+
+
+
+
